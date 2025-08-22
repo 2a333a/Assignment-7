@@ -240,6 +240,25 @@ body {
 }
 
 /* ===============================
+   CONTAINERS - 3 column
+   =============================== */
+
+   /* Three column container */
+.columns-3 {
+  display: grid;
+  grid-template-columns: 1fr;  
+  gap: 2rem;                   
+}
+
+/* Desktop breakpoint */
+@media (min-width: 1024px) {
+  .columns-3 {
+    grid-template-columns: repeat(3, 1fr); 
+    align-items: start;
+  }
+}
+
+/* ===============================
    GENERAL TYPOGRAPHY
    =============================== */
 
