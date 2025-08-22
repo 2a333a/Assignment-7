@@ -156,6 +156,70 @@
 }
 
 /* ===============================
+   GENERAL LAYOUT
+   =============================== */
+
+/* Page background */
+body {
+  background-color: #fefefe;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+/* ===============================
+   DIVIDERS
+   =============================== */
+
+   /* Primary divider */
+.divider-primary {
+  background-color: #dbdbdb; 
+}
+
+/* ===============================
+   CONTAINERS
+   =============================== */
+
+/* General container */
+.container {
+  width: 100%;
+  max-width: 100%;       
+  margin: 0 auto;
+  padding: 0 1rem;       
+  box-sizing: border-box;
+}
+
+/* Dividers should follow container width */
+.divider-primary,
+.divider-secondary {
+  border: none;
+  height: 2px;
+  background-color: #dbdbdb;
+  margin: 2rem 0;
+  width: 100%;         /* matches container width */
+}
+
+
+/* Secondary divider */
+.divider-secondary {
+  background-color: #dbdbdb;
+}
+
+/* Desktop breakpoint */
+@media (min-width: 768px) {
+  .container {
+    max-width: 800px;    
+    padding: 0 2rem;     
+  }
+}
+
+/* ===============================
+   GENERAL TYPOGRAPHY
+   =============================== */
+
+/* ===============================
    Icons
    =============================== */
 
