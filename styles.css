@@ -223,6 +223,8 @@ body {
    Icons
    =============================== */
 
+/* Black list icons */
+
    .black-list-icon {
   width: 24px;
   height: 24px;
@@ -230,6 +232,22 @@ body {
   display: inline-block;
   vertical-align: middle; 
 }
+
+
+
+/* Toolkit container */
+
+.toolkit-icons {
+  display: flex;           
+  gap: 1rem;              
+  align-items: center;    
+  justify-content: center; 
+  flex-wrap: nowrap;      
+  overflow-x: auto;       
+}
+
+
+
 
 /* ===============================
    FOOTER
