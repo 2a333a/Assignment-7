@@ -287,13 +287,20 @@ body {
 
 /* Toolkit container */
 
+/* Toolkit icons */
 .toolkit-icons {
-  display: flex;           
-  gap: 1rem;              
-  align-items: center;    
-  justify-content: center; 
-  flex-wrap: nowrap;      
-  overflow-x: auto;       
+  width: 45px;
+  height: 45px;
+  object-fit: contain;  
+  margin-right: 0.5rem; 
+}
+
+/* Wrapper icon row */
+.toolkit-icons-row {
+  display: flex;
+  flex-wrap: wrap;       
+  gap: 0.5rem;           
+  align-items: center;   
 }
 
    .blue-list-icon {
