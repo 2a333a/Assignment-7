@@ -1,0 +1,51 @@
+/* ===============================
+   FOOTER
+   =============================== */
+
+   /* Footer icon size */
+
+.footer-icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle; 
+  margin-right: 8px;      
+}
+
+ /* Footer style */
+
+ footer {
+  width: 100%;                  
+  max-width: none !important;   
+  margin: 0;                    
+  padding: 40px 20px;           
+  background-color: #2a333a;    
+  color: #fefefe;
+  text-align: center;
+}
+
+/* Footer nav style */
+
+footer nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;      
+  flex-wrap: wrap;              
+  gap: 2rem;
+}
+
+footer nav a {
+  color: #fefefe;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+}
+
+/* Footer nav hover style */
+
+footer nav a:hover,
+footer nav a:focus {
+  text-decoration: underline;
+  color: #1075ff;                  
+}
