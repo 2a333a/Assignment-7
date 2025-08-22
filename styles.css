@@ -179,7 +179,7 @@ body {
 }
 
 /* ===============================
-   CONTAINERS
+   CONTAINERS - 1 column
    =============================== */
 
 /* General container */
@@ -216,6 +216,30 @@ body {
 }
 
 /* ===============================
+   CONTAINERS - 2 column
+   =============================== */
+
+/* Two columns container */
+.columns-2 {
+  display: flex;
+  flex-direction: column;   
+  gap: 2rem; 
+  }               
+
+/* Each column content */
+.columns-2 > div {
+  flex: 1;                  
+}
+
+/* Desktop breakpoint */
+@media (min-width: 768px) {
+  .columns-2 {
+    flex-direction: row;    
+    align-items: flex-start;
+  }
+}
+
+/* ===============================
    GENERAL TYPOGRAPHY
    =============================== */
 
@@ -246,7 +270,13 @@ body {
   overflow-x: auto;       
 }
 
-
+   .blue-list-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain; 
+  display: inline-block;
+  vertical-align: middle; 
+}
 
 
 /* ===============================
