@@ -257,6 +257,13 @@ body {
   vertical-align: middle; 
 }
 
+   .black-list-icon-2 {
+  width: 18px;
+  height: 18px;
+  object-fit: contain; 
+  display: inline-block;
+  vertical-align: middle; 
+}
 
 
 /* Toolkit container */
@@ -271,8 +278,8 @@ body {
 }
 
    .blue-list-icon {
-  width: 24px;
-  height: 24px;
+  width: 18px;
+  height: 18px;
   object-fit: contain; 
   display: inline-block;
   vertical-align: middle; 
