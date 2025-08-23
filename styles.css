@@ -167,9 +167,27 @@ body {
 
 }
 
-
-
 /* ===============================
+   LIST STYLES
+   =============================== */
+
+/* Profesional presence list style */
+
+.professional-presence-content ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Profesional presence list style */
+
+.professional-presence-content li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+   /* ===============================
    DIVIDERS
    =============================== */
 
@@ -257,6 +275,34 @@ body {
     align-items: start;
   }
 }
+
+/* ===============================
+   CONTAINERS - 4 column
+   =============================== */
+
+   /* Four column container */
+
+.columns-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem; 
+}
+
+/* Four columns turn into 1 column for mobile */
+@media (max-width: 600px) {
+  .columns-4 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Professional presence content */
+
+.professional-presence-content h4 {
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+}
+
+
 
 /* ===============================
    GENERAL TYPOGRAPHY
@@ -388,6 +434,16 @@ span {
   display: inline-block;
   vertical-align: middle; 
 }
+
+/* Profesional presence icons */
+
+.professional-presence {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
 
 
 /* ===============================
