@@ -44,15 +44,19 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 - **Consistency**: The brand colours are applied across online platforms for cohesive identity (github, behance, vimeo, substack).  
 - **Icons**: Hierarchy by role: 
     - 18px list bullets     
-            →  ![Bulletk List Icons](Images/black-list-icon.png)
+            ![Bulletk List Icons](Images/black-list-icon.png)
+
     - 18px list bullets     
-            →  ![Bullet List Icons](Images/blue-list-icon.png) 
+            ![Bullet List Icons](Images/blue-list-icon.png) 
+
     - 24px social links     
-            →  ![Social Icons](Images/github-icon.png)  
+            ![Social Icons](Images/github-icon.png) 
+
     - 45px toolkit logos   
-            →  ![Toolkit Icons](Images/javascript-icon.png)
+            ![Toolkit Icons](Images/javascript-icon.png)
+            
     - 55px project icons    
-            →  ![Project Icons](Images/Deliverables.png)
+            ![Project Icons](Images/Deliverables.png)
 
 
 ### Custom Icons  
