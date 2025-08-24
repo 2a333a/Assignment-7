@@ -43,11 +43,18 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 - **Brand Style**: Minimalist, with a focus on **Oxford Blue** (`#2a333a`) and **Milk White** (`#fefefe`). 
 - **Consistency**: The brand colours are applied across online platforms for cohesive identity (github, behance, vimeo, substack).  
 - **Icons**: Hierarchy by role: 
-    - 18px list bullets     →  <img src="images/black-list-icon.png" alt="Black list icon" width="18" height="18" />
-    - 18px list bullets     →  <img src="images/blue-list-icon.png" alt="Blue list icon" width="18" height="18" /> 
-    - 24px social links     →  <img src="images/github-icon.png" alt="Github icon" width="24" height="24" />  
-    - 45px toolkit logos    →  <img src="images/javascript-icon.png" alt="Javascript icon" width="45" height="45" />
-    - 55px project icons    →  <img src="images/Deliverables.png" alt="Deliverables icon" width="55" height="55" />
+    - 18px list bullets     
+            →  ![Bulletk List Icons](Images/black-list-icon.png)
+    - 18px list bullets     
+            →  ![Bullet List Icons](Images/blue-list-icon.png) 
+    - 24px social links     
+            →  ![Social Icons](Images/github-icon.png)  
+    - 45px toolkit logos   
+            →  ![Toolkit Icons](Images/javascript-icon.png)
+    - 55px project icons    
+            →  ![Project Icons](Images/Deliverables.png)
+
+
 ### Custom Icons  
 
 The project includes **custom-designed icons** created to match the minimalist brand style.  
