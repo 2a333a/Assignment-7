@@ -43,11 +43,11 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 - **Brand Style**: Minimalist, with a focus on **Oxford Blue** (`#2a333a`) and **Milk White** (`#fefefe`). 
 - **Consistency**: The brand colours are applied across online platforms for cohesive identity (github, behance, vimeo, substack).  
 - **Icons**: Hierarchy by role: 
-    - 18px list bullets → <img src="svg/black-list-icon.svg" alt="List Icon" width="18" />
-    - 18px list bullets → <img src="svg/blue-list-icon.svg" alt="List Icon" width="18" />   
-    - 24px social links → <img src="svg/github-icon.svg" alt="LinkedIn" width="24" />  
-    - 45px toolkit logos → <img src="svg/javascript-icon.svg" alt="Vue.js" width="45" />  
-    - 55px project icons → <img src="svg/deliverables-icon.svg" alt="Project Icon" width="55" />
+    - 18px list bullets     →  ![Black list icon](svg/black-list-icon.svg)
+    - 18px list bullets     →  ![Blue list icon](svg/blue-list-icon.svg)  
+    - 24px social links     →  ![Github icon](svg/github-icon.svg)   
+    - 45px toolkit logos    →  ![Github icon](svg/javascript-icon.svg) 
+    - 55px project icons    →  ![Github icon](svg/deliverables-icon.svg) 
 
 ### Custom Icons  
 
@@ -56,7 +56,7 @@ These icons ensure visual consistency across list bullets, social links, and pro
 
 ![Custom SVG Icons](Images/custom-svg-icons.png)
 
- ---
+---
 
 
 ## Colour Style Guide
