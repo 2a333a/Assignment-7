@@ -42,7 +42,18 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 - **Layout**: Mobile-first responsive design using grids (`.columns-1,`, `.columns-2,`, `.columns-3`, `columns-4`).  
 - **Brand Style**: Minimalist, with a focus on **Oxford Blue** (`#2a333a`) and **Milk White** (`#fefefe`). 
 - **Consistency**: The brand colours are applied across online platforms for cohesive identity (github, behance, vimeo, substack).  
-- **Icons**: Hierarchy by role: 
+
+---
+
+## Custom Icons  
+
+The project includes **custom-designed icons** created to match the minimalist brand style.  
+These icons ensure visual consistency across list bullets, social links, and project displays, reinforcing a unique portfolio identity. 
+
+![Custom SVG Icons](Images/custom-svg-icons.png)
+
+
+- **Icon Size**: Hierarchy by role: 
 
     - **18px** list bullets     
             ![Bulletk List Icons](Images/black-list-icon.png)
@@ -59,13 +70,6 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
     - **55px** project icons    
             ![Project Icons](Images/Deliverables.png)
 
-
-### Custom Icons  
-
-The project includes **custom-designed icons** created to match the minimalist brand style.  
-These icons ensure visual consistency across list bullets, social links, and project displays, reinforcing a unique portfolio identity. 
-
-![Custom SVG Icons](Images/custom-svg-icons.png)
 
 ---
 
