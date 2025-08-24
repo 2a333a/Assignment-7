@@ -45,6 +45,15 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 
 ---
 
+## Layout Example - Projects Page
+
+The site features a **mobile-first, responsive layout** using `.container` constraints alongside flex and grid utilities to structure content and maintain visual balance across navigation, banners, videos, and articles. Key sections—including the top banner, project videos, and article grids—are wrapped in containers for consistent alignment, while full-width elements like the banner background and videos adapt to the viewport for a clean, cohesive presentation.
+
+![Layout Example](Images/layout-example.png)
+
+
+---
+
 ## Custom Icons  
 
 The project includes **custom-designed icons** created to match the minimalist brand style.  
