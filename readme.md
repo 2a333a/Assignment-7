@@ -16,9 +16,9 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 
 ## Pages  
 
-- **Welcome Page** – Overview of skills, education, and toolkits.  
-- **Projects Page** – Selected works with embedded motion reels and structured meta details.  
-- **Contact Page** – Professional presence with portfolio links, contact form.
+- **Welcome Page** – Overview of skills, toolkits and education.
+- **Projects Page** – One example projects with an embedded motion reel and project description. 
+- **Contact Page** – Professional presence with portfolio links, and contact form.
 
 ---
 
@@ -39,7 +39,7 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 ## Design Choices
 
 - **Typography**: Open Sans (light, regular, medium, semi-bold, bold, with italic variants).  
-- **Layout**: Mobile-first responsive design using grid utilities (`.columns-1,`, `.columns-2,`, `.columns-3`, `columns-4`).  
+- **Layout**: Mobile-first responsive design using grids (`.columns-1,`, `.columns-2,`, `.columns-3`, `columns-4`).  
 - **Brand Style**: Minimalist, with a focus on **Oxford Blue** (`#2a333a`) and **Milk White** (`#fefefe`). 
 - **Consistency**: The brand colours are applied across online platforms for cohesive identity (github, behance, vimeo, substack).  
 - **Icons**: Hierarchy by role: 
@@ -51,7 +51,7 @@ The site is fully responsive and developed with **semantic HTML5**, **CSS3**, **
 
 ### Custom Icons  
 
-The project includes **bespoke, custom-designed icons** created to match the minimalist brand style.  
+The project includes **custom-designed icons** created to match the minimalist brand style.  
 These icons ensure visual consistency across list bullets, social links, and project displays, reinforcing a unique portfolio identity. 
 
 ![Custom SVG Icons](Images/custom-svg-icons.png)
@@ -83,4 +83,4 @@ The extended palette ensures flexibility for both **UI elements** and **multimed
 
 ***Notes
 
-All personal details below are placeholders and should be replaced with your own.
+R&Y Assignment 7
