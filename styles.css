@@ -111,6 +111,16 @@
 
 /* Top banner - Wrapper right */
 
+#top-banner .container {
+  display: flex;                
+  flex-direction: row;          
+  justify-content: space-between; 
+  align-items: center;          
+  gap: 20px;                    
+  padding: 2rem;
+}
+
+
 #top-banner-right {
   display: flex;
   flex-direction: column;
@@ -142,6 +152,7 @@
   #banner-title {
     font-size: 14px;
     font-weight: bold;
+    color: #2a333a;
   }
 
   #page-name-banner {
