@@ -56,10 +56,10 @@ These icons ensure visual consistency across list bullets, social links, and pro
 - **Icon Size**: Hierarchy by role: 
 
     - **18px** list bullets     
-            ![Bulletk List Icons](Images/black-list-icon.png)
+            ![Bulletk List Icons](Images/black-bullet-list@300x.png)
 
     - **18px** list bullets     
-            ![Bullet List Icons](Images/blue-list-icon.png) 
+            ![Bullet List Icons](Images/blue-bullet-list@300x.png) 
 
     - **24px** social links     
             ![Social Icons](Images/github-icon.png) 
